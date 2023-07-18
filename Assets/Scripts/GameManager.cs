@@ -115,7 +115,7 @@ public class GameManager:MonoBehaviour
             if(nextBuildIndex!=SceneManager.sceneCountInBuildSettings)
                 SceneManager.LoadScene(nextBuildIndex);
             else
-                Debug.LogWarning("Level Design Time");
+                Debug.LogWarning("End of the Game");
         }
     }
 
