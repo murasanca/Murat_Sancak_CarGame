@@ -9,7 +9,7 @@
 	. .   . .   . .  . . . . . . . .
   -->
 # Murat_Sancak_CarGame
-<img alt="Place" src="https://github.com/murasanca/Database/blob/main/MS/msC1920x1080.png">
+<img alt="Car Game" src="https://github.com/murasanca/Database/blob/main/MS/msC1920x1080.png">
 <hr>
 <p align="center">
 	<a href="https://github.com/murasanca/Murat_Sancak_CarGame/tree/main/MobGe%20Project%20Assignment%20v2.0" target="_blank">MobGe Project Assignment v2.0</a>
